@@ -1,0 +1,14 @@
+# ClearExam
+
+> AI powered admission tutor for Bangladesh university entrance exams including BUET, MBBS, Dhaka University and IBA.
+
+ClearExam helps students prepare for university admission tests with personalized AI tutoring, mock exams from authentic past papers, a question bank of previous year questions, and a revision bank for spaced review of weak areas.
+
+## Pages
+
+- [Home](/): Pick your admission track and start preparing.
+- [Question Bank](/question-bank): Browse authentic previous year questions filtered by institution, year and subject.
+
+## Optional
+
+- [Sign In](/auth): Account access for saved progress.

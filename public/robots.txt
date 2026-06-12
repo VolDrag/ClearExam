@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clear-exam-genius.lovable.app/sitemap.xml
